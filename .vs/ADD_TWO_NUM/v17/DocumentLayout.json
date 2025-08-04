@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\venka\\source\\repos\\ADD_TWO_NUM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{475753E8-C6C6-49F1-A875-049C1A0ECDDE}|ADD_TWO_NUM\\ADD_TWO_NUM.csproj|c:\\users\\venka\\source\\repos\\add_two_num\\add_two_num\\sub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{475753E8-C6C6-49F1-A875-049C1A0ECDDE}|ADD_TWO_NUM\\ADD_TWO_NUM.csproj|solutionrelative:add_two_num\\sub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{475753E8-C6C6-49F1-A875-049C1A0ECDDE}|ADD_TWO_NUM\\ADD_TWO_NUM.csproj|C:\\Users\\venka\\source\\repos\\ADD_TWO_NUM\\add_two_num\\calci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{475753E8-C6C6-49F1-A875-049C1A0ECDDE}|ADD_TWO_NUM\\ADD_TWO_NUM.csproj|solutionrelative:add_two_num\\calci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{475753E8-C6C6-49F1-A875-049C1A0ECDDE}|ADD_TWO_NUM\\ADD_TWO_NUM.csproj|C:\\Users\\venka\\source\\repos\\ADD_TWO_NUM\\add_two_num\\mul.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{475753E8-C6C6-49F1-A875-049C1A0ECDDE}|ADD_TWO_NUM\\ADD_TWO_NUM.csproj|solutionrelative:add_two_num\\mul.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{475753E8-C6C6-49F1-A875-049C1A0ECDDE}|ADD_TWO_NUM\\ADD_TWO_NUM.csproj|C:\\Users\\venka\\source\\repos\\ADD_TWO_NUM\\add_two_num\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{475753E8-C6C6-49F1-A875-049C1A0ECDDE}|ADD_TWO_NUM\\ADD_TWO_NUM.csproj|solutionrelative:add_two_num\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{475753E8-C6C6-49F1-A875-049C1A0ECDDE}|ADD_TWO_NUM\\ADD_TWO_NUM.csproj|C:\\Users\\venka\\source\\repos\\ADD_TWO_NUM\\add_two_num\\div.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{475753E8-C6C6-49F1-A875-049C1A0ECDDE}|ADD_TWO_NUM\\ADD_TWO_NUM.csproj|solutionrelative:add_two_num\\div.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "sub.cs",
+              "DocumentMoniker": "C:\\Users\\venka\\source\\repos\\ADD_TWO_NUM\\ADD_TWO_NUM\\sub.cs",
+              "RelativeDocumentMoniker": "ADD_TWO_NUM\\sub.cs",
+              "ToolTip": "C:\\Users\\venka\\source\\repos\\ADD_TWO_NUM\\ADD_TWO_NUM\\sub.cs",
+              "RelativeToolTip": "ADD_TWO_NUM\\sub.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T09:55:30.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\venka\\source\\repos\\ADD_TWO_NUM\\ADD_TWO_NUM\\Program.cs",
+              "RelativeDocumentMoniker": "ADD_TWO_NUM\\Program.cs",
+              "ToolTip": "C:\\Users\\venka\\source\\repos\\ADD_TWO_NUM\\ADD_TWO_NUM\\Program.cs",
+              "RelativeToolTip": "ADD_TWO_NUM\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T09:55:29.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "mul.cs",
+              "DocumentMoniker": "C:\\Users\\venka\\source\\repos\\ADD_TWO_NUM\\ADD_TWO_NUM\\mul.cs",
+              "RelativeDocumentMoniker": "ADD_TWO_NUM\\mul.cs",
+              "ToolTip": "C:\\Users\\venka\\source\\repos\\ADD_TWO_NUM\\ADD_TWO_NUM\\mul.cs",
+              "RelativeToolTip": "ADD_TWO_NUM\\mul.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T09:55:28.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "div.cs",
+              "DocumentMoniker": "C:\\Users\\venka\\source\\repos\\ADD_TWO_NUM\\ADD_TWO_NUM\\div.cs",
+              "RelativeDocumentMoniker": "ADD_TWO_NUM\\div.cs",
+              "ToolTip": "C:\\Users\\venka\\source\\repos\\ADD_TWO_NUM\\ADD_TWO_NUM\\div.cs",
+              "RelativeToolTip": "ADD_TWO_NUM\\div.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T09:55:27.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "calci.cs",
+              "DocumentMoniker": "C:\\Users\\venka\\source\\repos\\ADD_TWO_NUM\\ADD_TWO_NUM\\calci.cs",
+              "RelativeDocumentMoniker": "ADD_TWO_NUM\\calci.cs",
+              "ToolTip": "C:\\Users\\venka\\source\\repos\\ADD_TWO_NUM\\ADD_TWO_NUM\\calci.cs",
+              "RelativeToolTip": "ADD_TWO_NUM\\calci.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T09:55:24.267Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

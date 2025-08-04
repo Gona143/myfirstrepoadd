@@ -1,0 +1,7 @@
+C:\Users\venka\source\repos\ADD_TWO_NUM\ADD_TWO_NUM\bin\Debug\ADD_TWO_NUM.exe.config
+C:\Users\venka\source\repos\ADD_TWO_NUM\ADD_TWO_NUM\bin\Debug\ADD_TWO_NUM.exe
+C:\Users\venka\source\repos\ADD_TWO_NUM\ADD_TWO_NUM\bin\Debug\ADD_TWO_NUM.pdb
+C:\Users\venka\source\repos\ADD_TWO_NUM\ADD_TWO_NUM\obj\Debug\ADD_TWO_NUM.csproj.AssemblyReference.cache
+C:\Users\venka\source\repos\ADD_TWO_NUM\ADD_TWO_NUM\obj\Debug\ADD_TWO_NUM.csproj.CoreCompileInputs.cache
+C:\Users\venka\source\repos\ADD_TWO_NUM\ADD_TWO_NUM\obj\Debug\ADD_TWO_NUM.exe
+C:\Users\venka\source\repos\ADD_TWO_NUM\ADD_TWO_NUM\obj\Debug\ADD_TWO_NUM.pdb
