@@ -8,7 +8,7 @@ namespace ADD_TWO_NUM
 {
     internal class sub
     {
-        public void sub()
+        public void subt()
         {
             int a = 30, b = 20;
             int s = a - b;
